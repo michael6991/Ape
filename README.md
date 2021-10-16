@@ -1,2 +1,2 @@
 # Ape
-## Crypto Currency Trading Bot Based On Intuivitve Machine Learning
+## Crypto Currency Trading Bot Based On Intuitive Machine Learning
